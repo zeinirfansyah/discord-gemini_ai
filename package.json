@@ -1,0 +1,16 @@
+{
+  "name": "zeemarimo-bot",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "type": "module",
+  "scripts": {
+    "test": "node ./app.js"
+  },
+  "author": "zeinirfansyah",
+  "license": "ISC",
+  "dependencies": {
+    "@google/generative-ai": "^0.1.3",
+    "discord.js": "^14.14.1"
+  }
+}
